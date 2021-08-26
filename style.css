@@ -40,7 +40,7 @@ nav img{
     content: '';
     width: 0%;
     height: 2px;
-    background: #f7655b;
+    background: #f31b0b;
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -80,7 +80,7 @@ nav img{
    
     border: 1px solid #f8372a;
     background: rgb(241, 66, 35);
-    transition: 1s;
+    transition: 0.5s;
 }
 
 nav .fa{
